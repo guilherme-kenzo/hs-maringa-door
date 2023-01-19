@@ -23,6 +23,8 @@ pipenv shell
 pipenv install
 ```
 
-4. 
+4. Para iniciar o servidor, execute:
 
-
+```
+python manage.py runserver
+```

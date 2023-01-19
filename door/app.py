@@ -1,6 +1,6 @@
 import flask
 from flask_cors import CORS
-from .flask_restful import Resource, Api
+from .flask_restful import Api
 from .settings import DEBUG, PORT, SECRET_KEY, HOST
 
 
